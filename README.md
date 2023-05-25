@@ -1,2 +1,2 @@
-# pangud
+# Pangud
 Distributed system management desktop application
